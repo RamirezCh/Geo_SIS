@@ -1,0 +1,11 @@
+The links below are open data sources provided by the government of Peru. Please select the period properly for the replication of the geographical visualizations.
+
+OPENDATA_AFILIADOS_DS01_202312: https://www.datosabiertos.gob.pe/dataset/datos-de-afiliados-al-seguro-integral-de-salud-en-estado-activo-seguro-integral-de-salud
+
+
+OPENDATA_DS_01_2023_01_06_ATENCIONES: https://www.datosabiertos.gob.pe/dataset/datos-de-atenciones-realizadas-las-asegurados-seguro-integral-de-salud-sis/resource/8ef41816
+
+
+TB_UBIGEOS: https://www.datosabiertos.gob.pe/dataset/codigos-equivalentes-de-ubigeo-del-peru 
+
+TB_EESS_1: https://www.datosabiertos.gob.pe/dataset/establecimientos-de-salud 
